@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "Poppins";
+    src: url("../fonts/Poppins/Poppins-Regular.ttf") format("truetype");
+}
+
+html, body{
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 26px;
+    line-height: 1.6;
+    font-weight: bold;
+    color: #0f1f39 ;
+}
+.MA-0{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.PA-0{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+/*.ytplayercls{
+    height: 100%;
+}*/
+#ytplayer{
+    width: 100%;
+    height: 100%;
+}
+.separator{
+    text-align: center;
+    font-size: 68px;
+}
+#dateAndTime{
+    text-align: center;
+    padding: 15px;
+}
